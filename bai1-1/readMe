@@ -1,0 +1,10 @@
+Bài 1-1 Cho tệp văn bản ( tên tệp nhập từ bàn phím) chứa các hệ số của 2 đa thức:
+P(x) = ao + a1x + a2x 2 + ... + anxn   (x^n)
+Q(x) = bo + bıx + b2x2..+ bmxm.  (x^m)
+Tệp có cấu trúc như sau: Dòng đầu chứa các số nguyên n và m (giữa n và m có ít nhất một 
+dấu cách). Dòng thứ 2 chứa các hệ số ao, a1,.... an (giữa hai hệ số có ít nhất một dấu cách). 
+Dòng thứ 3 chứa các hệ số bo, b1..., bm (giữa hai hệ số có ít nhất một dấu cách). Xây dựng 
+các hàm để thực hiện các việc sau đây:
+1. Đọc các hệ số của 2 đa thức từ tệp. 
+2. Nhập d1 và d2 từ bàn phím và tính: S = P(dl) /Q(d2). 
+3. Tính hệ số của đa thức hiệu: P(x) - Q(x)
